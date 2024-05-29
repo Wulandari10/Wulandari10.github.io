@@ -1,0 +1,42 @@
+<html>
+<head><title>home</title>
+</head>
+<body background="BG.png">
+<hr><center>
+<center><font color="black"><h1>
+NDARII KUUY
+</h1></font></center>
+<hr>
+<marquee direction="right">
+<font color=#FF4500>
+SELAMAT DATANG PENGUNJUNG NDARII KUUY
+</font>
+</marquee>
+<font face=arial size=4 color=maroon>
+<hr>
+| <a href=uts.html>Home</a>
+| <a href=brand.html>Nama Brand</a>
+| <a href=visimisi.html>Visi Misi</a> |
+
+<hr><p>
+<font face=verdana size=4 color=blue>Visi Misi :<br>
+		<br><center>
+		<font size=3 Face=algerian color=midnightblue>
+		VISI
+		<hr><center>
+		<font size=3 Face=MV Boli color=midnightblue>
+		Menjadi Pengusaha makanan ringan yang menjamin kualitas produk serta pelayanan yang terbaik
+		<hr><center>
+		<font size=3 Face=algerian color=midnightblue>
+		MISI
+		<hr><center>
+		<font size=3 Face=times new roman color=midnightblue>
+		<ul type=disc>
+			<li>Menyediakan makanan ringan untuk semua kalangan dengan harga yang terjangkau
+			<li>Mengikuti trend yang selalu berubah
+			<li>Mengikuti perkembangan dunia internet untuk pemasaran produk
+</tr>
+</body>
+</html>
+
+

@@ -1,0 +1,30 @@
+<html>
+<head><title>home</title>
+</head>
+<body background="BG.png">
+<hr><center>
+<center><font color="black"><h1>
+NDARII KUUY
+</h1></font></center>
+<hr>
+<marquee direction="right">
+<font color=#FF4500>
+SELAMAT DATANG PENGUNJUNG NDARII KUUY
+</font>
+</marquee>
+<font face=arial size=4 color=maroon>
+<hr>
+| <a href=uts.html>Home</a>
+| <a href=brand.html>Nama Brand</a>
+| <a href=visimisi.html>Visi Misi</a> |
+<hr><p><font face=verdana size=4 color=black>Home :<br>
+		<img src="logo 1.jpg" hspace=10 vspace=5 width=200 height=150 align="center"border=2>
+		<hr><center>
+		<font size=3 Face=tahoma color=black></font><NO BR>
+		Ndarii Kuuy merupakan bisnis usaha makanan ringan atau cemilan.
+		Usaha ini adalah salah satu jenis dari usaha kuliner yang memiliki potensi besar untuk dijalani. 
+		Sebab. Permintaan makanan ringan selalu meningkat. 
+		Apalagi target pasar dari usaha ini juga bisa dinikmati oleh siapa saja, 
+		baik oleh anak-anak, maupun orang dewasa. 		 
+</body>
+</html>
